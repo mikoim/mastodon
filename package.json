@@ -63,7 +63,7 @@
     "mark-loader": "^0.1.6",
     "marky": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "npmlog": "^4.0.2",
     "object-assign": "^4.1.1",
     "path-complete-extname": "^0.1.0",
